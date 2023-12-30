@@ -21,7 +21,7 @@ class Result {
      * The function accepts following parameters:
      *  1. INTEGER_ARRAY a
      *  2. INTEGER_ARRAY b
-     * Return int[2]: Alice's score is in the first position, and Bob's score is in the second.
+     * Return   int[2]: Alice's score is in the first position, and Bob's score is in the second.
      */
 
     public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
