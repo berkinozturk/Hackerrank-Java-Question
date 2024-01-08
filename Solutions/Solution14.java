@@ -22,7 +22,7 @@ class Result {
      */
 
     public static int getTotalX(List<Integer> a, List<Integer> b) {
-        
+
             int count = 0;
             int max = Collections.max(a);
             int min = Collections.min(b);
