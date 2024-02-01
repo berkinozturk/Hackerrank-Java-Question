@@ -23,7 +23,6 @@ class Result {
 
         int shared = 5;
         int liked=0;
-        
         for (int i = 1; i <= n; i++) {
 
             shared = (int) Math.floor(shared/2);
