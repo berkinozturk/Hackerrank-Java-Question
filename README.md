@@ -1,4 +1,4 @@
-# Java Algorithm Challenge - 100 Days
+# Java Algorithm Challenge - 50 Days
 
 Welcome to my 100-day Java algorithm challenge! 🚀
 
@@ -24,6 +24,6 @@ You can check the number of the day from the last commit.
 
 ## Last But Not Least
 
-I'm excited to embark on this 100-day journey of Java algorithm challenges. Follow along with my progress and feel free to provide feedback or suggestions for improvement.
+I'm excited to embark on this 50-day journey of Java algorithm challenges. Follow along with my progress and feel free to provide feedback or suggestions for improvement.
 
 **Happy coding!** 🌟
